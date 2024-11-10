@@ -1,0 +1,9 @@
+[submodule "booking_service"]
+	path = booking_service
+	url = https://github.com/Arsen04/booking_service.git
+[submodule "notification_service"]
+	path = notification_service
+	url = https://github.com/Arsen04/notification_service.git
+[submodule "user_service"]
+	path = user_service
+	url = https://github.com/Arsen04/user_service.git
